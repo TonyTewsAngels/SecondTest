@@ -20,5 +20,6 @@ public class HelloWorld {
 		
 		/* Implementation comment */
 		System.out.println("Wassup?");
+		System.out.println("Fork commit1");
 	}
 }
