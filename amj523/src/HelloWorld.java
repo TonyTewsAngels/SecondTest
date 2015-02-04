@@ -22,5 +22,7 @@ public class HelloWorld {
 		System.out.println("Wassup?");
 		System.out.println("The King's commit");
 		
+		//JBoss1
+		
 	}
 }
