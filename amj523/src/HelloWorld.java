@@ -20,5 +20,7 @@ public class HelloWorld {
 		
 		/* Implementation comment */
 		System.out.println("Wassup?");
+		System.out.println("The King's commit");
+		
 	}
 }
