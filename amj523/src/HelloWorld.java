@@ -21,5 +21,8 @@ public class HelloWorld {
 		/* Implementation comment */
 		System.out.println("Wassup?");
 		System.out.println("Fork commit1");
+		
+		System.out.println("'Branching' merge to 'BranchAndPull1'");
+		//IS THIS WORKING YET?!
 	}
 }
