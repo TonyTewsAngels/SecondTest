@@ -24,5 +24,8 @@ public class HelloWorld {
 		
 		System.out.println("'Branching' merge to 'BranchAndPull1'");
 		//IS THIS WORKING YET?!
+		//Ok now testing conflicts
+		//How badly will this fuck up?
+		
 	}
 }
